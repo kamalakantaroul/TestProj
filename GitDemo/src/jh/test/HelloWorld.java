@@ -9,6 +9,7 @@ public class HelloWorld {
 		if(true){
 			System.out.println("Ola");
 		}
+		System.out.println("tEST");
 	}
 
 }
