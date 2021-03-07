@@ -1,0 +1,30 @@
+
+THis my first test file OK ok cool
+
+Hello Bro
+dev1
+Here added to Keep
+Master comment1
+
+
+
+SELECT * FROM USER;
+SELECT * FROM BATCH_JOB_EXECUTION;
+SELECT * FROM BATCH_JOB_EXECUTION_CONTEXT;
+SELECT * FROM BATCH_JOB_EXECUTION_PARAMS;
+
+SELECT * FROM BATCH_STEP_EXECUTION;
+ SELECT * FROM BATCH_STEP_EXECUTION_CONTEXT;
+ 
+ 
+ https://thorben-janssen.com/localized-data-hibernate/
+ 
+ read a csv file and write to mysql database with spring boot batch tutorial
+ 
+ 
+ 
+ https://stackoverflow.com/questions/10933620/display-special-characters-using-system-out-println
+ https://stackoverflow.com/questions/31653130/german-characters-in-java
+ some characters cannot be mapped using cp1252 character encoding java
+ https://stackoverflow.com/questions/3598117/unable-to-create-a-file-with-foreign-language-characters
+ https://stackoverflow.com/questions/9423105/save-could-not-be-completed-eclipse-error/35621979
