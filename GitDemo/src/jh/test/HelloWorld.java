@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("World");
 		System.out.println("Hello");
 		if(true){
-			System.out.println("Ola");
+			System.out.println("Olaaaa");
 		}
 		System.out.println("tEST");
 	}
